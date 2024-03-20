@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekansh Rajput (ER)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regression1607&label=Profile%20views&color=0e75b6&style=flat" alt="regression1607" /> </p>
 
@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regression1607&show_icons=true&locale=en" alt="regression1607" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regression1607&" alt="regression1607" /></p>
+
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd204MDl1anljdDJyZTFpamJtbmtxc2pkMDZmYjBlMm5ocXhoYWJsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif)
