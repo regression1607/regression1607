@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **cyber security**
 
-- 👨‍💻 All of my projects are available at [https://ekanshrajput.netlify.com/](https://ekanshrajput.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://ekanshrajput.netlify.app/](https://ekanshrajput.netlify.app/)
 
 - 📫 How to reach me **ekanshrajput1607@gmail.com**
 
