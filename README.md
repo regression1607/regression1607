@@ -19,7 +19,7 @@
 <img src="./thoughtworks-gif_dribbble.gif" height="250px" align="right" />
 
 - 🔭 Software developer Developer 
-- 🌱 Currently exploring **Cyber Security**  
+- 🌱 Exploring **everything**  
 - 👯 Looking to collaborate on **AI/ML and backend development projects**  
 - 👨‍💻 All my projects are available at [My Portfolio](https://ekanshrajput.netlify.app/)  
 - 📫 Reach me at **ekanshrajput1607@gmail.com**  
